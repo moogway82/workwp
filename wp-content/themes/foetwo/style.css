@@ -1,0 +1,19 @@
+/*
+Theme Name: FoE Two
+Theme URI: http://wordpress.org/extend/themes/twentytwelve
+Author: Chris Jamieson
+Author URI: http://www.bikelanebrakes.com/blog
+Description: Testing inheriting themes, see what happens...
+Template: twentytwelve
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url("../twentytwelve/style.css");
+
+body {
+    background-color: green;
+}
